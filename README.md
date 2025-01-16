@@ -1,3 +1,60 @@
+# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+
+## 1. Tampilan Pada Menu Homepage Admin
+Berikut adalah halaman homepage admin pada student management.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/00a5f040-9989-41a9-807b-af2a6d35c105" alt="Tampilan Pada Menu Homepage Admin" width="600">
+</div>
+
+---
+
+## 2. Tampilan Pada Menu Produk
+Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pengguna dapat melihat dan mengelola produk secara efisien.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/4032d6ec-d9c3-4071-8417-b7212d0a1674" alt="Tampilan Produk" width="600">
+</div>
+
+---
+
+## 3. Tampilan Pada Add Produk
+Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/33bbc40d-146c-41e2-b41a-f9cf3fb727ed" alt="Tampilan Add Produk" width="600">
+</div>
+
+---
+
+## 4. Tampilan Untuk Edit Produk
+Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir dengan baik, memudahkan pengguna dalam memperbarui informasi produk.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/b72048d3-c5fd-489a-a3ed-73553761d1f8" alt="Tampilan Edit Produk" width="600">
+</div>
+
+---
+
+## 5. Database di MySQL
+Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/15201317-cb84-453e-8d75-17a60a4c217f" alt="Database di MySQL" width="600">
+</div>
+
+---
+
+## 6. Tampilan Ketika Produk Ada Yang di Delete
+Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/ec380af9-6491-4e18-bab9-ade42df76661" alt="Tampilan Delete Produk" width="600">
+</div>
+
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +121,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
