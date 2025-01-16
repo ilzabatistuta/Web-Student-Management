@@ -1,4 +1,22 @@
-![Screenshot 2025-01-03 215203](https://github.com/user-attachments/assets/132cbe7d-bdda-49d5-9471-6b67d9947855)# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+![Screenshot 2025-01-03 210843](https://github.com/user-attachments/assets/e7d542d6-6188-4598-9861-82d09591b2ba)![Screenshot 2025-01-03 215203](https://github.com/user-attachments/assets/132cbe7d-bdda-49d5-9471-6b67d9947855)# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+
+## Tampilan Pada Menu Login
+Berikut adalah halaman login yang akan digunakan.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/047120b2-b5c6-4e38-b352-9d6bbfe5e983" alt="Tampilan Pada Menu Login" width="600">
+</div>
+
+---
+
+## Tampilan Pada Menu Register
+Berikut adalah halaman register untuk membuat akun.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/9fa3514c-c56e-4eeb-ba5c-fa0a339d2b1e" alt="Tampilan Pada Menu Register" width="600">
+</div>
+
+---
 
 ## 1. Tampilan Pada Menu Homepage Admin
 Berikut adalah halaman homepage admin pada student management.
@@ -63,20 +81,20 @@ Berikut adalah halaman untuk melakukan input payment yang akan dilakukan oleh ad
 
 ---
 
-## 5. Database di MySQL
-Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
+## 8. Tampilan Payment Receipt
+Tampilan dari halaman payment receipt ketika dilakukan print, yang dilakukan oleh admin.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/15201317-cb84-453e-8d75-17a60a4c217f" alt="Database di MySQL" width="600">
+  <img src= "https://github.com/user-attachments/assets/683214a7-992b-49c8-acc2-906aa0b66f06" width="600">
 </div>
 
 ---
 
-## 6. Tampilan Ketika Produk Ada Yang di Delete
+## 9. Tampilan Home User
 Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/ec380af9-6491-4e18-bab9-ade42df76661" alt="Tampilan Delete Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/d89d9737-5c82-408b-a4f7-9758c22c983f" alt="Tampilan Home User" width="600">
 </div>
 
 
