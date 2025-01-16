@@ -9,11 +9,11 @@ Berikut adalah halaman homepage admin pada student management.
 
 ---
 
-## 2. Tampilan Pada Menu Produk
-Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pengguna dapat melihat dan mengelola produk secara efisien.
+## 2. Tampilan Pada Student Page Admin
+Berikut adalah halaman untuk melakukan input data student yang dilakukan oleh admin.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/4032d6ec-d9c3-4071-8417-b7212d0a1674" alt="Tampilan Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Tampilan Produk" width="600">
 </div>
 
 ---
