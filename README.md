@@ -1,4 +1,4 @@
-# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+![Screenshot 2025-01-03 215203](https://github.com/user-attachments/assets/132cbe7d-bdda-49d5-9471-6b67d9947855)# Hasil Tugas Besar 1 Pemrograman Web Enterprise
 
 ## 1. Tampilan Pada Menu Homepage Admin
 Berikut adalah halaman homepage admin pada student management.
@@ -32,6 +32,33 @@ Berikut adalah halaman untuk melakukan input course yang akan dilakukan oleh adm
 
 <div align="center">
   <img src= "https://github.com/user-attachments/assets/7ac911a7-1226-4be4-89f9-04c04f572768" alt="Tampilan Pada Course" width="600">
+</div>
+
+---
+
+## 5. Tampilan Pada Batches Page Admin
+Berikut adalah halaman untuk melakukan input batches yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/63803632-29e8-4881-80b2-095e0ee15e9f" alt="Tampilan Pada Bacthes" width="600">
+</div>
+
+---
+
+## 6. Tampilan Pada Enrollment Page Admin
+Berikut adalah halaman untuk melakukan input enrollment yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/d422aa07-3307-4199-97e3-89f22642ba76" alt="Tampilan Pada Enrollment" width="600">
+</div>
+
+---
+
+## 7. Tampilan Pada Payment Page Admin
+Berikut adalah halaman untuk melakukan input payment yang akan dilakukan oleh admin.
+
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/8855eaeb-e265-478f-886f-73c3dba52481" alt="Tampilan Pada Payment" width="600">
 </div>
 
 ---
