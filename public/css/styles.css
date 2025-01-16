@@ -1,0 +1,359 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+        font-family: 'Poppins',
+        sans-serif;
+}
+
+body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #e5e7eb;
+        color: #2c3e50;
+        line-height: 1.6;
+}
+
+
+/* .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+.sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+ */
+
+
+
+    /* Navbar Styling */
+    .navbar {
+        background-color: #34495e;
+        padding: 10px 20px;
+    }
+
+    .navbar-brand h2 {
+        color: #ecf0f1;
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* Sidebar Styling */
+    .sidebar {
+        background-color: #2c3e50;
+        padding-top: 70px;
+        border-right: 2px solid #34495e;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        width: 220px; /* Ubah nilai ini sesuai kebutuhan */
+    }
+
+    .sidebar img {
+        width: 150px; /* Ukuran logo */
+        height: auto;
+        margin: 20px auto 20px auto; /* Mengatur logo agar di tengah dengan margin bawah */
+        display: block; /* Menjadikan gambar sebagai block-level element */
+    }
+
+    .sidebar a {
+        color: #bdc3c7;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 15px 20px;
+        display: flex;
+        align-items: center;
+        transition: background-color 0.3s ease, padding-left 0.3s ease;
+        width: 100%;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .sidebar a i {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+
+    .sidebar a:hover,
+    .sidebar a.active {
+        background-color: #1abc9c;
+        color: white;
+        padding-left: 25px;
+    }
+
+    /* Main Content Styling */
+    .main-content {
+        margin-left: 225px;
+        padding: 20px;
+        margin-top: 100px;
+        width: calc(100% - 20px);
+    }
+
+    /* Header with Search Bar and Profile */
+    .header {
+        background-color: #34495e;
+        color: white;
+        padding: 15px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        font-family: 'Roboto', sans-serif;
+    }
+
+    /* Header Title (Logo + Text) */
+    .header .header-title {
+        font-size: 24px;
+        font-weight: 700;
+        color: #ecf0f1;
+        display: flex;
+        align-items: center; /* Flexbox untuk menyusun logo dan teks */
+    }
+
+    .header .header-title img {
+        width: 40px; /* Ukuran logo */
+        height: auto;
+        margin-right: 10px; /* Memberikan jarak antara logo dan teks */
+    }
+
+    .header .header-title span {
+        font-family: 'Poppins', sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        color: #ecf0f1;
+    }
+
+    /* Profile Section */
+    .header .profile-logo {
+        display: flex;
+        align-items: center;
+    }
+
+    .header .profile-logo img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    /* Jumbotron Styling */
+    .jumbotron {
+        background-color: #1abc9c;
+        color: white;
+        border-radius: 10px;
+        padding: 40px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .jumbotron a {
+        background-color: #2980b9;
+        border-radius: 5px;
+        padding: 12px 25px;
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+        transition: background-color 0.3s ease;
+    }
+
+    .jumbotron a:hover {
+        background-color: #3498db;
+    }
+
+    /* Footer Styles */
+
+
+
+
+    /* CREATE BLADE PHP STUDENT */
+
+    /* Styling untuk card */
+    .card {
+        background-color: #34495e; /* Warna latar belakang putih */
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin-bottom: 30px;
+    }
+
+    /* Styling untuk judul card */
+    .card-header {
+        background-color: #53c1dd; /* Warna biru */
+        color: #ffffff;
+        font-size: 26px;
+        font-weight: 600;
+        padding: 20px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    /* Styling untuk tombol 'Add New' */
+    .btn-success {
+        background-color: #27ae60; /* Hijau */
+        border: none;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 12px 25px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-success:hover {
+        background-color: #2ecc71; /* Efek hover hijau lebih terang */
+        transform: scale(1.1); /* Membesarkan tombol */
+        transition: transform 0.2s ease; /* Animasi transisi */
+    }
+
+    /* Styling untuk table */
+    .table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* Styling untuk header table */
+    .table thead {
+        background-color:#53c1dd; /* Warna abu-abu gelap */
+        color: white;
+        font-size: 16px;
+    }
+
+    .table th, .table td {
+        padding: 12px 15px;
+        text-align: left;
+    }
+
+    /* Styling untuk baris tabel */
+    .table tbody tr:nth-child(odd) {
+        background-color: #ecf0f1; /* Warna abu-abu terang */
+    }
+
+    .table tbody tr:nth-child(even) {
+        background-color: #ffffff; /* Warna putih */
+    }
+
+    .table tbody tr:hover {
+        background-color: #1abc9c; /* Warna oranye terang saat hover */
+    
+    }
+
+    /* Styling untuk foto */
+    table img {
+        border-radius: 50%;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn {
+        border-radius: 5px;
+        transition: all 0.3s ease; /* Menambahkan transisi halus */
+    }
+
+    .btn-success {
+        background-color: #27ae60;
+        border: none;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 12px 25px;
+    }
+
+    .btn-success:hover {
+        background-color: #2ecc71;
+    }
+
+    .btn-info {
+        background-color: #3498db;
+        border-color: #2980b9;
+    }
+
+    .btn-info:hover {
+        background-color: #2980b9;
+    }
+
+    .btn-primary {
+        background-color: #8e44ad;
+        border-color: #8e44ad;
+    }
+
+    .btn-primary:hover {
+        background-color: #9b59b6;
+    }
+
+    .btn-danger {
+        background-color: #e74c3c;
+        border-color: #c0392b;
+    }
+
+    .btn-danger:hover {
+        background-color: #c0392b;
+    }
+
+    /* Efek pembesaran pada tombol saat hover */
+    .btn:hover {
+        transform: scale(1.1); /* Membesarkan tombol */
+        transition: transform 0.2s ease; /* Animasi transisi */
+    }
+
+
+    /* Styling untuk label */
+    label {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 8px;
+        color: white; /* Warna teks label menjadi putih */
+    }
+
+    
+
+   
