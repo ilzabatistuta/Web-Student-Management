@@ -1,4 +1,4 @@
-![Screenshot 2025-01-03 210843](https://github.com/user-attachments/assets/e7d542d6-6188-4598-9861-82d09591b2ba)![Screenshot 2025-01-03 215203](https://github.com/user-attachments/assets/132cbe7d-bdda-49d5-9471-6b67d9947855)# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+# Hasil Tugas Besar 1 Pemrograman Web Enterprise
 
 ## Tampilan Pada Menu Login
 Berikut adalah halaman login yang akan digunakan.
