@@ -18,11 +18,12 @@ Berikut adalah halaman untuk melakukan input data student yang dilakukan oleh ad
 
 ---
 
-## 3. Tampilan Pada Add Produk
+## 3. Tampilan Pada Teacher Page Admin 
 Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/33bbc40d-146c-41e2-b41a-f9cf3fb727ed" alt="Tampilan Add Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b)
+hments/assets/33bbc40d-146c-41e2-b41a-f9cf3fb727ed" alt="Tampilan Add Produk" width="600">
 </div>
 
 ---
