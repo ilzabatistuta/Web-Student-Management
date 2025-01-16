@@ -13,26 +13,25 @@ Berikut adalah halaman homepage admin pada student management.
 Berikut adalah halaman untuk melakukan input data student yang dilakukan oleh admin.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Tampilan Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/0c85ddd6-6b69-4890-b71a-40549f87b217" alt="Tampilan Pada Student" width="600">
 </div>
 
 ---
 
 ## 3. Tampilan Pada Teacher Page Admin 
-Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
+Berikut adalah halaman untuk melakukan input data teacher yang dilakukan oleh admin.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b)
-hments/assets/33bbc40d-146c-41e2-b41a-f9cf3fb727ed" alt="Tampilan Add Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/d4b11e74-2e90-4e28-9421-b1fe4cc7781b" alt="Tampilan Pada Teacher" width="600">
 </div>
 
 ---
 
-## 4. Tampilan Untuk Edit Produk
-Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir dengan baik, memudahkan pengguna dalam memperbarui informasi produk.
+## 4. Tampilan Pada Course Page Admin
+Berikut adalah halaman untuk melakukan input course yang akan dilakukan oleh admin.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/b72048d3-c5fd-489a-a3ed-73553761d1f8" alt="Tampilan Edit Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/7ac911a7-1226-4be4-89f9-04c04f572768" alt="Tampilan Pada Course" width="600">
 </div>
 
 ---
